@@ -1,0 +1,23 @@
+body {
+  background: #e3f2fd;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 5px;
+  display: block;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: #0d47a1;
+}
+
+h2 {
+  color: #1565c0;
+  margin-top: 20px;
+}
